@@ -1,0 +1,31 @@
+{
+  "name": "@le2xx/ngx-drag-scroll",
+  "version": "14.0.0",
+  "description": "Lightweight drag to scroll library for Angular",
+  "contributors": [
+    {
+      "name": "Fan Jin, le2xx",
+      "email": "fanjin1989@gmail.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/@le2xx/ngx-drag-scroll.git"
+  },
+  "keywords": [
+    "Angular",
+    "Carousel",
+    "Drag",
+    "Scroll"
+  ],
+  "author": "Fan Jin, le2xx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/@le2xx/ngx-drag-scroll.git"
+  },
+  "homepage": "https://github.com/@le2xx/ngx-drag-scroll#readme",
+  "peerDependencies": {
+    "@angular/common": "^12.0.0 || ^13.0.0 || ~13.0.0 || ~14.0.0",
+    "@angular/core": "^12.0.0 || ^13.0.0 || ~13.0.0 || ~14.0.0"
+  }
+}
